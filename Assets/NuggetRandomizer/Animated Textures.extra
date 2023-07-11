@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "44738d25-b949-f842-96f7-6fb4d42c30b9",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Animated Textures",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

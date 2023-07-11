@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "efdbb98d-6d18-7a80-f431-f060a0a68524",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Nuggets",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

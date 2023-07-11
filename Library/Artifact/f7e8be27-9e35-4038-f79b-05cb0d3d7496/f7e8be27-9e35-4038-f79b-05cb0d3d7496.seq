@@ -1,0 +1,23 @@
+%YAML 1.1
+--- !TextureSequence &1
+name: Planets_TexSequence
+guid: {a: 12344080449719442069, b: 7277118603852350372}
+assettype:
+  __class: TexSeqAssetType
+  value: image
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: f7e8be27-9e35-4038-f79b-05cb0d3d7496--0.imageatlas}
+  - {localId: 1, path: f7e8be27-9e35-4038-f79b-05cb0d3d7496--1.imageatlas}
+  - {localId: 1, path: f7e8be27-9e35-4038-f79b-05cb0d3d7496--2.imageatlas}
+  - {localId: 1, path: f7e8be27-9e35-4038-f79b-05cb0d3d7496--3.imageatlas}
+  - {localId: 1, path: f7e8be27-9e35-4038-f79b-05cb0d3d7496--4.imageatlas}
+  - {localId: 1, path: f7e8be27-9e35-4038-f79b-05cb0d3d7496--5.imageatlas}
+  - {localId: 1, path: f7e8be27-9e35-4038-f79b-05cb0d3d7496--6.imageatlas}
+  - {localId: 1, path: f7e8be27-9e35-4038-f79b-05cb0d3d7496--7.imageatlas}
+memoryLimit: 0
+preload: true
+indexAction:
+  __class: Map
+preloadCount: 5

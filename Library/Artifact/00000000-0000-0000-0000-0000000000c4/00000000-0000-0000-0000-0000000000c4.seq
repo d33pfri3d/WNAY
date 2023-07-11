@@ -1,0 +1,17 @@
+%YAML 1.1
+--- !TextureSequence &1
+name: defaultErrorSeq
+guid: {a: 2902640250978533889, b: 9916895150371371435}
+assettype:
+  __class: TexSeqAssetType
+  value: image
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 00000000-0000-0000-0000-0000000000c4--0.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-0000000000c4--1.imageatlas}
+memoryLimit: 0
+preload: true
+indexAction:
+  __class: Map
+preloadCount: 5

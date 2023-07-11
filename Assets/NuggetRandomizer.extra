@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "bc494372-739a-de3d-533a-e6925ead76b6",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "NuggetRandomizer",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]
